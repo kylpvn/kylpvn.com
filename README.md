@@ -4,24 +4,39 @@ Project Overview
 Using React.js, Three.js, and TailwindCSS
 
 📋 Contents
+
 🤖 Background
+
 ⚙️ Technology Used
+
 🔋 Key Features
+
 🤸 Getting Started
+
 🕸️ Code Examples
 
 🤖 Background
 
 Embarking on this project will provide you with practical experience in designing compelling web interfaces, mastering 3D libraries, and adding dynamic animations. This project is a fantastic way to combine your creative and technical abilities, making it a valuable addition to your portfolio and impressing users with modern web designs.
 
+
 ⚙️ Technology Used
+
+
 React.js
+
 Three.js
+
 React Three Fiber
+
 React Three Drei
+
 Email JS
+
 Vite
+
 Tailwind CSS
+
 
 
 🔋 Key Features
@@ -38,8 +53,11 @@ Plus more, including aspects on code structure and reusability.
 To begin, ensure your system has the following installed:
 
 Git
+
 Node.js
+
 npm (Node Package Manager)
+
 
 Repository Cloning
 git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git 

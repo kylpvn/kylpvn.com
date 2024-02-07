@@ -5,19 +5,13 @@ Using React.js, Three.js, and TailwindCSS
 
 📋 Contents
 
-🤖 Background
 
 ⚙️ Technology Used
 
 🔋 Key Features
 
-🤸 Getting Started
-
 🕸️ Code Examples
 
-🤖 Background
-
-Embarking on this project will provide you with practical experience in designing compelling web interfaces, mastering 3D libraries, and adding dynamic animations. This project is a fantastic way to combine your creative and technical abilities, making it a valuable addition to your portfolio and impressing users with modern web designs.
 
 
 ⚙️ Technology Used
@@ -41,6 +35,7 @@ Tailwind CSS
 
 🔋 Key Features
 
+
 3D Customizable Hero Section: Features a modifiable 3D desktop model.
 
 Dynamic Experience and Work Sections: Engages users with animations from framer motion.
@@ -58,6 +53,7 @@ Seamless Animations: Offers consistent animation effects across the site with fr
 Responsive Layout: Guarantees a seamless viewing experience on all devices.
 
 Plus more, including aspects on code structure and reusability.
+
 
 
 

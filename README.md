@@ -14,6 +14,10 @@ Using React.js, Three.js, and TailwindCSS
 
 
 
+
+
+
+
 ⚙️ Technology Used
 
 

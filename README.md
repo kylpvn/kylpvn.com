@@ -2,8 +2,6 @@
 
 Project Overview
 Using React.js, Three.js, and TailwindCSS
-Craft Your Own 3D Developer Portfolio
-Follow along with our comprehensive guide on the JavaScript Mastery YouTube channel to construct this project from the ground up. Become a part of the JSM community today!
 
 📋 Contents
 🤖 Background
@@ -11,15 +9,10 @@ Follow along with our comprehensive guide on the JavaScript Mastery YouTube chan
 🔋 Key Features
 🤸 Getting Started
 🕸️ Code Examples
-🔗 Useful Resources
-🚀 Expand Your Knowledge
-🚨 Instructional Guide
-This codebase is linked to a detailed video tutorial on our YouTube channel, JavaScript Mastery. It's an ideal resource for those who prefer to learn visually. Watch our step-by-step tutorial to understand how to create such projects from scratch in a way that's friendly for beginners!
 
 🤖 Background
-Embarking on this project will provide you with practical experience in designing compelling web interfaces, mastering 3D libraries, and adding dynamic animations. This project is a fantastic way to combine your creative and technical abilities, making it a valuable addition to your portfolio and impressing users with modern web designs.
 
-For newcomers seeking guidance or encountering issues, our Discord community, boasting over 27k members, is a vibrant space for mutual support.
+Embarking on this project will provide you with practical experience in designing compelling web interfaces, mastering 3D libraries, and adding dynamic animations. This project is a fantastic way to combine your creative and technical abilities, making it a valuable addition to your portfolio and impressing users with modern web designs.
 
 ⚙️ Technology Used
 React.js
@@ -29,6 +22,8 @@ React Three Drei
 Email JS
 Vite
 Tailwind CSS
+
+
 🔋 Key Features
 3D Customizable Hero Section: Features a modifiable 3D desktop model.
 Dynamic Experience and Work Sections: Engages users with animations from framer motion.
@@ -51,13 +46,18 @@ git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git
 cd project_3D_developer_portfolio
 
 Installation
-Install the necessary dependencies with npm:  npm install
+Install the necessary dependencies with npm:
+
+npm install
 
 
 Environment Setup
-Create a .env file at your project's root and input:  REACT_APP_EMAILJS_USERID=<your_emailjs_user_id>
-                                                      REACT_APP_EMAILJS_TEMPLATEID=<your_emailjs_template_id>
-                                                      REACT_APP_EMAILJS_RECEIVERID=<your_emailjs_receiver_id>
+
+Create a .env file at your project's root and input: 
+
+REACT_APP_EMAILJS_USERID=<your_emailjs_user_id>
+REACT_APP_EMAILJS_TEMPLATEID=<your_emailjs_template_id>
+REACT_APP_EMAILJS_RECEIVERID=<your_emailjs_receiver_id>
                                                       
 Fill in the placeholders with your EmailJS details, available after signing up on the EmailJS site.
 

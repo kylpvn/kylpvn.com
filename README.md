@@ -62,8 +62,15 @@ Plus more, including aspects on code structure and reusability.
 
 
 🕸️ Code Examples
+
+
 constants.js
+
 index.css
+
 Motion.js
+
 styles.js
+
 tailwind.config.cjs
+

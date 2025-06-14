@@ -1,0 +1,11 @@
+<script>start("/Users/kylpvn/Downloads/3D_portfolio/dist/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,1248,"1.2 kB",1749919323,"6/14/25, 9:42:03 AM");</script>
+<script>addRow("desktop_pc","desktop_pc",1,192,"192 B",1749919322,"6/14/25, 9:42:02 AM");</script>
+<script>addRow("desktop_pc2","desktop_pc2",1,160,"160 B",1749919322,"6/14/25, 9:42:02 AM");</script>
+<script>addRow("desktop_pc3","desktop_pc3",1,192,"192 B",1749919322,"6/14/25, 9:42:02 AM");</script>
+<script>addRow("planet","planet",1,192,"192 B",1749919322,"6/14/25, 9:42:02 AM");</script>
+<script>addRow("index.html","index.html",0,481,"481 B",1749919323,"6/14/25, 9:42:03 AM");</script>
+<script>addRow("logo.svg","logo.svg",0,10444,"10.2 kB",1749919322,"6/14/25, 9:42:02 AM");</script>
+<script>addRow("resume.pdf","resume.pdf",0,232663,"227 kB",1749919322,"6/14/25, 9:42:02 AM");</script>
+<script>addRow("resume1.pdf","resume1.pdf",0,74870,"73.1 kB",1749919322,"6/14/25, 9:42:02 AM");</script>

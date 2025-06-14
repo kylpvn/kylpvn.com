@@ -1,0 +1,92 @@
+body {
+    background-color: #000;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Apply padding only on large screens */
+  @media (min-width: 768px) { /* Adjust the min-width as needed */
+    .container {
+      padding-left: 250px;
+    }
+  }
+  
+  .atom {
+    position: relative;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+  }
+  
+  .atom:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) translateX(60px);
+    width: 10px;
+    height: 10px;
+    background-color: #ffaf87; /* peach */
+    border-radius: 50%;
+    animation: electron1 2s linear infinite;
+    box-shadow: 0 0 10px #ffaf87, 0 0 20px #ffaf87, 0 0 30px #ffaf87;
+  }
+  
+  .atom:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) translateX(80px);
+    width: 30px;
+    height: 30px;
+    background-color: #87dfff; /* baby blue */
+    border-radius: 50%;
+    animation: electron2 2s linear infinite;
+    box-shadow: 0 0 10px #87dfff, 0 0 20px #87dfff, 0 0 30px #87dfff;
+  }
+  
+  .atom .nucleus {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    background-color: #dfff87; /* light green */
+    border-radius: 50%;
+    box-shadow: 0 0 10px #dfff87, 0 0 20px #dfff87, 0 0 30px #dfff87;
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes electron1 {
+    0% {
+      transform: translate(-50%, -50%) rotate(0deg) translateX(60px) rotate(0deg) translateY(-30px);
+    }
+    100% {
+      transform: translate(-50%, -50%) rotate(360deg) translateX(60px) rotate(360deg) translateY(-30px);
+    }
+  }
+  
+  @keyframes electron2 {
+    0% {
+      transform: translate(-50%, -50%) rotate(0deg) translateX(80px) rotate(0deg) translateY(40px);
+    }
+    100% {
+      transform: translate(-50%, -50%) rotate(360deg) translateX(80px) rotate(360deg) translateY(40px);
+    }
+  }
+  

@@ -1,0 +1,11 @@
+Model Information:
+* title:	SSL 9000 J-K Console
+* source:	https://sketchfab.com/3d-models/ssl-9000-j-k-console-0230be42cc7f4a3a9ad5d6bc13051670
+* author:	Actiondyne Industries (https://sketchfab.com/ActiondyneIndustries)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SSL 9000 J-K Console" (https://sketchfab.com/3d-models/ssl-9000-j-k-console-0230be42cc7f4a3a9ad5d6bc13051670) by Actiondyne Industries (https://sketchfab.com/ActiondyneIndustries) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

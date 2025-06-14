@@ -1,0 +1,11 @@
+Model Information:
+* title:	DYNACORD CMS600
+* source:	https://sketchfab.com/3d-models/dynacord-cms600-cc99b61a9b2247999e8a4ff82adc1f39
+* author:	Jan Vančík (https://sketchfab.com/JanVancik3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DYNACORD CMS600" (https://sketchfab.com/3d-models/dynacord-cms600-cc99b61a9b2247999e8a4ff82adc1f39) by Jan Vančík (https://sketchfab.com/JanVancik3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
